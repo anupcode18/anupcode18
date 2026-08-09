@@ -11,6 +11,24 @@
 
 ---
 
+## $ whoami
+
+```bash
+┌──(anup㉿pune)-[~]
+└─$ cat about.json
+{
+  "name":       "Anup Agrawal",
+  "role":       "Full Stack Developer",
+  "location":   "Pune, India 🇮🇳",
+  "focus":      ["Web Apps", "Cloud Deployment", "AI Integration"],
+  "status":     "Available for opportunities ✨",
+  "superpower": "Turning complex problems into clean user-friendly solutions",
+  "building":   "AI-powered applications that actually ship 🚀"
+}
+```
+
+---
+
 ## About Me
 
 Passionate software engineer specializing in full-stack development, cloud deployment, and AI integration. I build responsive web apps and enjoy turning complex problems into clean, user-friendly solutions.
@@ -60,13 +78,13 @@ Passionate software engineer specializing in full-stack development, cloud deplo
 
 <div align="center">
 
-[![Anup's GitHub stats](https://github-readme-stats.vercel.app/api?username=anupcode18&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/anupcode18)
+[![Anup's GitHub stats](https://github-readme-stats.vercel.app/api?username=anupcode18&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=6366F1&text_color=e6e6e6&icon_color=6366F1&cache_seconds=1800)](https://github.com/anupcode18)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anupcode18&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anupcode18)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anupcode18&layout=compact&hide_border=true&bg_color=0d1117&title_color=6366F1&text_color=e6e6e6&cache_seconds=1800)](https://github.com/anupcode18)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anupcode18&theme=tokyonight&hide_border=true)](https://github.com/anupcode18)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=anupcode18&hide_border=true&background=0d1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&sideLabels=e6e6e6&dates=e6e6e6&currStreakNum=ffffff&sideNums=ffffff)](https://github.com/anupcode18)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anupcode18&theme=tokyo-night&hide_border=true&area=true)](https://github.com/anupcode18)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anupcode18&bg_color=0d1117&color=6366F1&line=6366F1&point=ffffff&hide_border=true&area=true&area_color=6366F1)](https://github.com/anupcode18)
 
 </div>
 
@@ -74,11 +92,49 @@ Passionate software engineer specializing in full-stack development, cloud deplo
 
 ## Featured Projects
 
-| Project | Description | Stack |
-| --- | --- | --- |
-| [EASE-IT](https://github.com/anupcode18/EASE-IT-AI-POWERED-HEALTH-ASSISTANT) | AI health assistant with OCR food-label scanning and ingredient safety analysis | HTML, Node.js, MongoDB, Gemini, Tesseract.js |
-| [VoteWise](https://github.com/anupcode18/VoteWise) | AI civic guidance system for first-time voters with plain-language explanations | HTML, Node.js, Gemini, Docker, GCP |
-| [AnupsPortfolio](https://github.com/anupcode18/AnupsPortfolio) | Personal portfolio website with responsive design and project showcase | HTML, CSS, JS |
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/anupcode18/EASE-IT-AI-POWERED-HEALTH-ASSISTANT">
+        <img src="https://img.shields.io/badge/🏥%20EASE--IT-AI%20Health%20Assistant-6366F1?style=for-the-badge&labelColor=0d1117" alt="EASE-IT"/>
+      </a>
+      <br/><br/>
+      <p>AI health assistant with OCR food-label scanning and ingredient safety analysis</p>
+      <br/>
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlebard&logoColor=white"/>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/anupcode18/VoteWise">
+        <img src="https://img.shields.io/badge/🗳️%20VoteWise-AI%20Civic%20Guide-6366F1?style=for-the-badge&labelColor=0d1117" alt="VoteWise"/>
+      </a>
+      <br/><br/>
+      <p>AI civic guidance system for first-time voters with plain-language explanations</p>
+      <br/>
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/anupcode18/AnupsPortfolio">
+        <img src="https://img.shields.io/badge/🌐%20Portfolio-Personal%20Website-6366F1?style=for-the-badge&labelColor=0d1117" alt="Portfolio"/>
+      </a>
+      <br/><br/>
+      <p>Personal portfolio website with responsive design and project showcase</p>
+      <br/>
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
@@ -97,6 +153,7 @@ Passionate software engineer specializing in full-stack development, cloud deplo
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-anup--agrawal.vercel.app-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://anup-agrawal.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anup%20Agrawal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anup-agrawal18/)
 [![GitHub](https://img.shields.io/badge/GitHub-anupcode18-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anupcode18)
 [![Email](https://img.shields.io/badge/Email-anupagrawalwork@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anupagrawalwork@gmail.com)
 
